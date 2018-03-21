@@ -44,19 +44,19 @@ In addition, when the first version of the document was written (February 2018),
 
 ## Sections
 
-1. [Requirements](./01-requirements.md)
-2. [NEO C# Language Considerations](./02-csharp.md)
-3. [NEO System Fees](./03-systemfees.md)
-4. [Design Patterns](./04-designpatterns.md)
-5. [Writing Secure Contracts](./05-securecontracts.md)
-6. [Implementation](./06-implementation.md)
-7. [Deployment](./07-deployment.md)
-8. [Testing](./08-testing.md)
-9. [Maintenance](./09-maintenance.md)
-10. [Documentation](./10-documentation.md)
-11. [Appendix A - NEO Object Model Overview](./11.neoobjectmodel.md)
-12. [Appendix B - Roadmap](./12-roadmap.md)
-12. [Appendix C - Sample Smart Contracts](./13-samplesmartcontracts.md)
+1. [Requirements](./en-us/01-requirements.md)
+2. [NEO C# Language Considerations](./en-us/02-csharp.md)
+3. [NEO System Fees](./en-us/03-systemfees.md)
+4. [Design Patterns](./en-us/04-designpatterns.md)
+5. [Writing Secure Contracts](./en-us/05-securecontracts.md)
+6. [Implementation](./en-us/06-implementation.md)
+7. [Deployment](./en-us/07-deployment.md)
+8. [Testing](./en-us/08-testing.md)
+9. [Maintenance](./en-us/09-maintenance.md)
+10. [Documentation](./en-us/10-documentation.md)
+11. [Appendix A - NEO Object Model Overview](./en-us/11.neoobjectmodel.md)
+12. [Appendix B - Roadmap](./en-us/12-roadmap.md)
+12. [Appendix C - Sample Smart Contracts](./en-us/13-samplesmartcontracts.md)
 
 ## References
 
