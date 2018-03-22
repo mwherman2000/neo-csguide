@@ -60,7 +60,7 @@ In addition, when the first version of the document was written (February 2018),
 14. [Lab: Programming with Entities: Meetup Attendee Sign-in #3](./en-us/labs/lab-meetup3-entities.md)
 15. [Off-chain Client Development](./en-us/offchainclientdev.md)
 16. [Lab: Off-chain Client Development: Meetup Attendee Sign-in #4](./en-us/labs/lab-meetup4-clientdev.md)
-17. [NEP5 Token Standard](./en-u/nep5tokensintro.md)
+17. [NEP5 Token Standard](./en-us/nep5tokensintro.md)
 18. [Lab: NEP5 Tokens: A Meetup Token](./en-us/labs/lab-nep5tokens.md)
 19. [Design Patterns](./en-us/designpatterns.md)
 19. [Deployment](./en-us/deployment.md)

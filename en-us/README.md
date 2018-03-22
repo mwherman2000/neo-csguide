@@ -44,23 +44,38 @@ In addition, when the first version of the document was written (February 2018),
 
 ## Sections
 
-1. [Requirements](./01-uirements.md)
-2. [NEO C# Language Considerations](./02-csharp.md)
-3. [NEO System Fees](./03-systemfees.md)
-4. [Design Patterns](./04-designpatterns.md)
-5. [Writing Secure Contracts](./05-securecontracts.md)
-6. [Implementation](./06-implementation.md)
-7. [Deployment](./07-deployment.md)
-8. [Testing](./08-testing.md)
-9. [Maintenance](./09-maintenance.md)
-10. [Documentation](./10-documentation.md)
-11. [Appendix A - NEO Object Model Overview](./11.neoobjectmodel.md)
-12. [Appendix B - Roadmap](./12-roadmap.md)
-12. [Appendix C - Sample Smart Contracts](./13-samplesmartcontracts.md)
+1. [Getting Started](./gettingstarted.md)
+2. [Blockchain Basic Concepts](./blockchainbasicconcepts.md)
+3. [What is NEO?](./whatisneo.md)
+4. [NEO Development Tools](./neodevtools.md)
+5. [Lab: Writing First C#.NEO Smart Contract: Hello World!](./labs/lab-helloworld.md)
+6. [The C#.NEO Language](./csharpneointro.md)
+7. [Lab: Using NEO Storage: Meetup Attendee Sign-in #1](./labs/lab-meetup1-storage.md)
+8. [Introduction to Entities](./entitiesintro.md)
+9. [Using Other Languages](./usingotherlanguages.md)
+10. [NEO Architecture](./neocharm.md)
+11. [Lab: Edit-Compile-Debug: Meetup Attendee Sign-in #2](./labs/lab-meetup2-ecd.md)
+12. [NEO Persistable Classes Introduction](./npcintro.md)
+13. [Programming with Entities](./programmingwithentities.md)
+14. [Lab: Programming with Entities: Meetup Attendee Sign-in #3](./labs/lab-meetup3-entities.md)
+15. [Off-chain Client Development](./offchainclientdev.md)
+16. [Lab: Off-chain Client Development: Meetup Attendee Sign-in #4](./labs/lab-meetup4-clientdev.md)
+17. [NEP5 Token Standard](./nep5tokensintro.md)
+18. [Lab: NEP5 Tokens: A Meetup Token](./labs/lab-nep5tokens.md)
+19. [Design Patterns](./designpatterns.md)
+19. [Deployment](./deployment.md)
+20. [Testing](./testing.md)
+21. [Maintenance](./maintenance.md)
+22. [Writing Secure Contracts](./securecontracts.md)
+23. [Documentation](./documentation.md)
+24. [Appendix A - NEO Object Model Overview](./neoobjectmodel.md)
+25. [Appendix B - Roadmap](./guideroadmap.md)
+26. [Appendix C - Sample Smart Contracts](./samplesmartcontracts.md)
+27. [Appendix D - NEO System Fees](./systemfees.md)
 
 ## References
 
-* [MSCODINGGUIDE] Microsoft, [C# Coding Conventions (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) from [https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+* [MSCODINGGUIDE] Microsoft, [C# Coding Conventions (C# Programming Guide)](https://docs.microsoft.com/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) from [https://docs.microsoft.com/dotnet/csharp/programming-guide/inside-a-program/coding-conventions](https://docs.microsoft.com/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
     > The C# Language Specification does not define a coding standard. However, the guidelines in this topic are used by Microsoft to develop samples and documentation. 
 
     > Coding conventions serve the following purposes:
@@ -73,7 +88,7 @@ In addition, when the first version of the document was written (February 2018),
 
     > * They demonstrate C# best practices.
 
-* [FRAMEWORKGUIDLINES] Microsoft, [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/) from [https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/)
+* [FRAMEWORKGUIDLINES] Microsoft, [Framework Design Guidelines](https://docs.microsoft.com/dotnet/standard/design-guidelines/) from [https://docs.microsoft.com/dotnet/standard/design-guidelines/](https://docs.microsoft.com/dotnet/standard/design-guidelines/)
     > This section provides guidelines for designing libraries that extend and interact with the .NET Framework. ...
 
     > The guidelines are organized as simple recommendations prefixed with the terms Do, Consider, Avoid, and Do not. 
